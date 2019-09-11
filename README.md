@@ -11,7 +11,7 @@
 
 | 序号 | 题号                                                         | 语言   | 标签          |
 | ---- | ------------------------------------------------------------ | ------ | ------------- |
-| 1    | [2.两数之和](./easy/2 两数之和.md)                           | python | 双指针/哈希表 |
+| 1    | [2.两数之和](./Easy/2两数之和.md)                            | python | 双指针/哈希表 |
 | 2    | [20.完整括号](https://github.com/tienyeung/leetcode/blob/master/Easy/20 判断是否为完整括号.md) | python | 栈            |
 | 3    | [26重复数字](https://github.com/tienyeung/leetcode/blob/master/Easy/26 原地去除重复数字.md) | python | 快慢指针      |
 | 4    |                                                              |        |               |
