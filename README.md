@@ -1,9 +1,15 @@
-# <font face="微软雅黑" color="F4606C" size=5>Leetcode</font>
+# Leetcode
 <font face="微软雅黑" color="19CAAD" size=5> 算法的成长之路</font>
 
-目前仍在**Easy**阶段...（33/all）
+目前仍在**Easy**阶段...（45/all）
 
 **Medium** (1/all)
+
+| 热题HOT100 | 腾讯精选50题 | 精选TOP面试题 |
+| :--------: | :----------: | :-----------: |
+|   26/100   |    22/50     |    32/145     |
+
+
 
 ---
 
