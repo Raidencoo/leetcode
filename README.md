@@ -3,9 +3,9 @@
 
 ---
 
-目前仍在**Easy**阶段...（69/all）
+目前仍在**Easy**阶段...（84/all）
 
-**Medium** (1/all)
+**Medium** (2/all)
 
 **Hard**(0.1/all)
 
