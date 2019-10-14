@@ -1,5 +1,11 @@
-# Leetcode
-<font face="微软雅黑" color="19CAAD" size=5> 算法的成长之路</font>
+<h3 align="center">算法知识储备 Leetcode with Python</h3>
+<div align="center">
+    <img src="Easy/book.png">
+</div>
+<div align="center">
+    <img src="https://img.shields.io/badge/%3E-Leetcode-blue.svg">
+    <img src="https://img.shields.io/badge/-Algorithm-blue.svg">
+</div>
 
 ---
 
