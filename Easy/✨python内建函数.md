@@ -14,3 +14,8 @@
 
    `dict=collections.Counter(iter)`
 
+4. 分组：
+
+   `from itertools import groupby`
+
+   `groupby(iter)`是将一个列表中相同的元素归为一组，返回的是两个值：（组别名，组中元素）
