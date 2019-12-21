@@ -37,3 +37,9 @@
    `itertools.permutations(a1，a2)`从数组a1中选取a2个数，返回这a2个数组成的全排列(与顺序相关)。
    
    `itertools.combinations(a1，a2)`从数组a1中选取a2个数，返回这a2个数组成的组合(与顺序无关)。
+   
+8. 最小堆：
+
+   `from heapq import heapify, heappush, heappop`
+
+   分别对应建立最小堆，插入，取出
