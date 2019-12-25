@@ -11,7 +11,7 @@
 
 ~~**Easy(267/all)**~~
 
-目前已在**Medium** 阶段...(7/all)
+目前已在**Medium** 阶段...(9/all)
 
 **Hard**(0.1/all)
 
@@ -31,4 +31,3 @@
 
 ---
 
-rest one day...
