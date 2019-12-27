@@ -48,4 +48,6 @@
 
 # 2. 模板
 
-1. [算法模板]([https://github.com/Alex660/Algorithms-and-data-structures/blob/master/theoreticalKnowledge/AlgorithmTemplate%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF.md](https://github.com/Alex660/Algorithms-and-data-structures/blob/master/theoreticalKnowledge/AlgorithmTemplate算法模板.md))
+1. [算法模板](https://github.com/Alex660/Algorithms-and-data-structures/blob/master/theoreticalKnowledge/AlgorithmTemplate算法模板.md)
+2. [二分法](https://tienyeung.github.io/post/er-fen-cha-zhao/)
+
