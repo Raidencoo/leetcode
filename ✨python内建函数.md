@@ -1,4 +1,6 @@
-# python内建函数
+# python内建函数及技巧
+
+# 1.内建函数
 
 1. 最大公约数：
 
@@ -43,3 +45,7 @@
    `from heapq import heapify, heappush, heappop`
 
    分别对应建立最小堆，插入，取出
+
+# 2. 模板
+
+1. [算法模板]([https://github.com/Alex660/Algorithms-and-data-structures/blob/master/theoreticalKnowledge/AlgorithmTemplate%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF.md](https://github.com/Alex660/Algorithms-and-data-structures/blob/master/theoreticalKnowledge/AlgorithmTemplate算法模板.md))
