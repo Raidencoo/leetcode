@@ -1,4 +1,6 @@
-# python内建函数
+# python内建函数及技巧
+
+# 1.内建函数
 
 1. 最大公约数：
 
@@ -43,3 +45,13 @@
    `from heapq import heapify, heappush, heappop`
 
    分别对应建立最小堆，插入，取出
+   
+9. 缺省字典：
+
+   `collections.defaultdict(list)`参数代表的是字典中若不存在当前key，则新建一个键值对，默认的值为list
+
+# 2. 模板
+
+1. [算法模板](https://github.com/Alex660/Algorithms-and-data-structures/blob/master/theoreticalKnowledge/AlgorithmTemplate算法模板.md)
+2. [二分法](https://tienyeung.github.io/post/er-fen-cha-zhao/)
+
