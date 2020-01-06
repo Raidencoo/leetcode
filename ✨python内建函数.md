@@ -49,6 +49,16 @@
 9. 缺省字典：
 
    `collections.defaultdict(list)`参数代表的是字典中若不存在当前key，则新建一个键值对，默认的值为list
+   
+10. OrderedDict:
+
+    有序字典:`from collections import OrderedDict`
+
+    方法：`move_to_end`: 指定一个key，把对应的key-value移到最后
+
+    ​			`pop`: 获取指定key的value，并在字典中删除
+
+    ​			popitem`: 按照后进先出原则，删除最后加入的元素，返回key-value;popitem(last = False)则删除最开始的元素。
 
 # 2. 模板
 
